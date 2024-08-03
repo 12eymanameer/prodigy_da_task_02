@@ -1,12 +1,8 @@
-Sure! Here's the updated introductory section for your GitHub repository README file, including the mention of Power BI:
-
----
-
 # Titanic Dataset Analysis
 
 Welcome to the Titanic Dataset Analysis repository! This project leverages the Titanic dataset from Kaggle to explore and visualize various factors that influenced passenger survival rates during the tragic sinking of the RMS Titanic.
 
-![Titanic Data Analysis]
+
 ![image](https://github.com/user-attachments/assets/10023b19-1868-4972-903a-e95cce9dc77a)
 
 
