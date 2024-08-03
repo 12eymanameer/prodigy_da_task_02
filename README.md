@@ -37,9 +37,5 @@ The analysis includes the following visualizations:
 - **Age Distribution**: Visualizes the age distribution of passengers.
 - **Embarkation Points**: Highlights the survival rates based on the port of embarkation.
 
-## Tools Used
-
-The analysis was conducted using **Power BI**, a powerful data visualization tool that allows for interactive and insightful data exploration.
-
-Feel free to explore the repository and contribute to the analysis!
-
+Tools Used
+The analysis was conducted using Power BI for creating interactive and insightful data visualizations. Additionally, Google Colab was utilized for performing the data analysis in Python. You can view the Colab notebook here.
