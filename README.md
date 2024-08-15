@@ -3,7 +3,8 @@
 Welcome to the Titanic Dataset Analysis repository! This project leverages the Titanic dataset from Kaggle to explore and visualize various factors that influenced passenger survival rates during the tragic sinking of the RMS Titanic.
 
 
-![image](https://github.com/user-attachments/assets/10023b19-1868-4972-903a-e95cce9dc77a)
+![image](https://github.com/user-attachments/assets/2a233375-82e5-42d2-9d83-d541170d7a8a)
+
 
 
 ## Overview
